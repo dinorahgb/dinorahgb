@@ -1,4 +1,9 @@
-### Hi there👋, I'm Laura. ✨Welcome to my repo✨
+
+
+### Hi there👋, I'm Laura. 
+
+### ✨Welcome to my repo✨
+
 I'm a Junior Front-end Developer 💻 and Architec based in Madrid, Spain.
 
 ### About me
@@ -36,5 +41,5 @@ I'm a Junior Front-end Developer 💻 and Architec based in Madrid, Spain.
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/laura-garcia-bonet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-garcia-bonet" height="20" width="40" /> Laura Garcia Bonet</a>
+<a href="https://www.linkedin.com/in/laura-garcia-bonet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-garcía-bonet" height="20" width="40" /> Laura García Bonet</a>
 </p>
